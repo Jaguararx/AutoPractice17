@@ -1,0 +1,22 @@
+{
+  "Tests.UI.Tests.WebDriverTests.ThirdUITest" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "23dba63ca5c5e8ab",
+      "status" : "failed",
+      "statusDetails" : "  Expected string length 31 but was 30. Strings differ at index 30.\r\n  Expected: \"COE Test Automation Sample App2\"\r\n  But was:  \"COE Test Automation Sample App\"\r\n  -----------------------------------------^\r\n",
+      "time" : {
+        "start" : 1623166867008,
+        "stop" : 1623166868096,
+        "duration" : 1088
+      }
+    } ]
+  }
+}

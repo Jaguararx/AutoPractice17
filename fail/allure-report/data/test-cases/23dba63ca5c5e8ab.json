@@ -1,0 +1,152 @@
+{
+  "uid" : "23dba63ca5c5e8ab",
+  "name" : "ThirdUITest",
+  "fullName" : "Tests.UI.Tests.WebDriverTests.ThirdUITest",
+  "historyId" : "Tests.UI.Tests.WebDriverTests.ThirdUITest",
+  "time" : {
+    "start" : 1623166867008,
+    "stop" : 1623166868096,
+    "duration" : 1088
+  },
+  "status" : "failed",
+  "statusMessage" : "  Expected string length 31 but was 30. Strings differ at index 30.\r\n  Expected: \"COE Test Automation Sample App2\"\r\n  But was:  \"COE Test Automation Sample App\"\r\n  -----------------------------------------^\r\n",
+  "statusTrace" : "   at Tests.UI.Tests.WebDriverTests.ThirdUITest() in C:\\Users\\IvanY\\Work\\COE\\Cources\\Internal\\AutoPractice17\\Tests.UI\\Tests\\WebDriverTests.cs:line 53\r\n",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "SetUpBeforTestRun",
+    "time" : {
+      "start" : 1623166868075,
+      "stop" : 1623166868075,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "  Expected string length 31 but was 30. Strings differ at index 30.\r\n  Expected: \"COE Test Automation Sample App2\"\r\n  But was:  \"COE Test Automation Sample App\"\r\n  -----------------------------------------^\r\n",
+    "statusTrace" : "   at Tests.UI.Tests.WebDriverTests.ThirdUITest() in C:\\Users\\IvanY\\Work\\COE\\Cources\\Internal\\AutoPractice17\\Tests.UI\\Tests\\WebDriverTests.cs:line 53\r\n",
+    "steps" : [ {
+      "name" : "ThirdUITest",
+      "time" : {
+        "start" : 1623166867009,
+        "stop" : 1623166868082,
+        "duration" : 1073
+      },
+      "status" : "failed",
+      "statusMessage" : "  Expected string length 31 but was 30. Strings differ at index 30.\r\n  Expected: \"COE Test Automation Sample App2\"\r\n  But was:  \"COE Test Automation Sample App\"\r\n  -----------------------------------------^\r\n",
+      "statusTrace" : "   at Tests.UI.Tests.WebDriverTests.ThirdUITest() in C:\\Users\\IvanY\\Work\\COE\\Cources\\Internal\\AutoPractice17\\Tests.UI\\Tests\\WebDriverTests.cs:line 53\r\n",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ff57cc43c84c9b5f",
+        "name" : "Screenshot [18:41:08]",
+        "source" : "ff57cc43c84c9b5f.png",
+        "type" : "image/png",
+        "size" : 73063
+      }, {
+        "uid" : "60043291751b634c",
+        "name" : "PageSource_18:41:08",
+        "source" : "60043291751b634c.html",
+        "type" : "text/html",
+        "size" : 20802
+      }, {
+        "uid" : "11ad441d3f53871",
+        "name" : "Console Output",
+        "source" : "11ad441d3f53871.txt",
+        "type" : "text/plain",
+        "size" : 0
+      } ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : true,
+      "attachmentsCount" : 3,
+      "hasContent" : true,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 3,
+    "hasContent" : true,
+    "stepsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "TearDown",
+    "time" : {
+      "start" : 1623166868075,
+      "stop" : 1623166868075,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "TearDownBeforTestRun",
+    "time" : {
+      "start" : 1623166868075,
+      "stop" : 1623166868075,
+      "duration" : 0
+    },
+    "status" : "unknown",
+    "statusMessage" : "It's not possible to get status of OneTimeTearDown",
+    "statusTrace" : "See Allure.NUnit wiki",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 0,
+    "hasContent" : true,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "NonParallelWorker"
+  }, {
+    "name" : "host",
+    "value" : "CP116"
+  }, {
+    "name" : "testClass",
+    "value" : "Tests.UI.Tests.WebDriverTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "ThirdUITest"
+  }, {
+    "name" : "package",
+    "value" : "Tests.UI.Tests.WebDriverTests"
+  }, {
+    "name" : "tag",
+    "value" : "UI"
+  }, {
+    "name" : "suite",
+    "value" : "UI Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "UI" ]
+  },
+  "source" : "23dba63ca5c5e8ab.json",
+  "parameterValues" : [ ]
+}

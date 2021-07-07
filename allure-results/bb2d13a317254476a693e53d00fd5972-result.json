@@ -1,0 +1,71 @@
+{
+  "uuid": "69c802e9-bd76-47d6-a905-a57eb2a945e6-tr-0-1001",
+  "historyId": "Tests.UI.Tests.WebDriverTests.ThirdUITest",
+  "fullName": "Tests.UI.Tests.WebDriverTests.ThirdUITest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "CP116"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests.UI.Tests.WebDriverTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ThirdUITest"
+    },
+    {
+      "name": "package",
+      "value": "Tests.UI.Tests.WebDriverTests"
+    },
+    {
+      "name": "tag",
+      "value": "UI"
+    },
+    {
+      "name": "suite",
+      "value": "UI Tests"
+    }
+  ],
+  "links": [],
+  "name": "ThirdUITest",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "ThirdUITest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "5721fe912b1d47a495e3b1f7ad314d83-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1625652176791,
+      "stop": 1625652177996
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1625652176790,
+  "stop": 1625652178013
+}

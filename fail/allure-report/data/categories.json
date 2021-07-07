@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "  Expected string length 31 but was 30. Strings differ at index 30.\r\n  Expected: \"COE Test Automation Sample App2\"\r\n  But was:  \"COE Test Automation Sample App\"\r\n  -----------------------------------------^\r\n",
+      "children" : [ {
+        "name" : "ThirdUITest",
+        "uid" : "23dba63ca5c5e8ab",
+        "parentUid" : "b575cda22738737e49d16335733cdfc7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1623166867008,
+          "stop" : 1623166868096,
+          "duration" : 1088
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b575cda22738737e49d16335733cdfc7"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

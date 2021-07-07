@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "CP116",
+    "children" : [ {
+      "name" : "NonParallelWorker",
+      "children" : [ {
+        "name" : "ThirdUITest",
+        "uid" : "23dba63ca5c5e8ab",
+        "parentUid" : "da1c2944817ecf6b8869992ff7343041",
+        "status" : "failed",
+        "time" : {
+          "start" : 1623166867008,
+          "stop" : 1623166868096,
+          "duration" : 1088
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "da1c2944817ecf6b8869992ff7343041"
+    } ],
+    "uid" : "77ba09922a12d5eaf87be7eb2b87bf0f"
+  } ]
+}

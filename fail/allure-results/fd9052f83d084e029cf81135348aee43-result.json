@@ -1,0 +1,85 @@
+{
+  "uuid": "9c184de9-3369-4f0e-82ac-e41062f43541-tr-0-1001",
+  "historyId": "Tests.UI.Tests.WebDriverTests.ThirdUITest",
+  "fullName": "Tests.UI.Tests.WebDriverTests.ThirdUITest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "CP116"
+    },
+    {
+      "name": "testClass",
+      "value": "Tests.UI.Tests.WebDriverTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ThirdUITest"
+    },
+    {
+      "name": "package",
+      "value": "Tests.UI.Tests.WebDriverTests"
+    },
+    {
+      "name": "tag",
+      "value": "UI"
+    },
+    {
+      "name": "suite",
+      "value": "UI Tests"
+    }
+  ],
+  "links": [],
+  "name": "ThirdUITest",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Expected string length 31 but was 30. Strings differ at index 30.\r\n  Expected: \"COE Test Automation Sample App2\"\r\n  But was:  \"COE Test Automation Sample App\"\r\n  -----------------------------------------^\r\n",
+    "trace": "   at Tests.UI.Tests.WebDriverTests.ThirdUITest() in C:\\Users\\IvanY\\Work\\COE\\Cources\\Internal\\AutoPractice17\\Tests.UI\\Tests\\WebDriverTests.cs:line 53\r\n"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "ThirdUITest",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "  Expected string length 31 but was 30. Strings differ at index 30.\r\n  Expected: \"COE Test Automation Sample App2\"\r\n  But was:  \"COE Test Automation Sample App\"\r\n  -----------------------------------------^\r\n",
+        "trace": "   at Tests.UI.Tests.WebDriverTests.ThirdUITest() in C:\\Users\\IvanY\\Work\\COE\\Cources\\Internal\\AutoPractice17\\Tests.UI\\Tests\\WebDriverTests.cs:line 53\r\n"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Screenshot [18:41:08]",
+          "source": "da5f1192b0af43a3aba195038ac4b056-attachment",
+          "type": "image/png"
+        },
+        {
+          "name": "PageSource_18:41:08",
+          "source": "396ba6c714fb4398b57fb60d1c275d33-attachment.html",
+          "type": "text/html"
+        },
+        {
+          "name": "Console Output",
+          "source": "42752c858e4f4e60b7727dbded639e60-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1623166867009,
+      "stop": 1623166868082
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1623166867008,
+  "stop": 1623166868096
+}

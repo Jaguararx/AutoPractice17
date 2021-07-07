@@ -1,0 +1,11 @@
+[ {
+  "uid" : "23dba63ca5c5e8ab",
+  "name" : "ThirdUITest",
+  "time" : {
+    "start" : 1623166867008,
+    "stop" : 1623166868096,
+    "duration" : 1088
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]
